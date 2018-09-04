@@ -1,7 +1,11 @@
 public class pessoa{
 public String tipo;
 public String nome;
-
+/*
+public pessoa(String nome){
+    this.nome=nome;
+}
+*/
 public void setNome(String nome){
 this.nome=nome;
 }

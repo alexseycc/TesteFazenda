@@ -1,10 +1,10 @@
-class fazendeiro{
-String nome;
-/*
-public fazendeiro(String nome){
+class fazendeiro extends pessoa{
+    
+public fazendeiro(String nome,String tipo){
     this.nome=nome;
+    this.tipo=tipo;
 }
-*/
+
 public void setNome(String nome){
     this.nome=nome;
     }
