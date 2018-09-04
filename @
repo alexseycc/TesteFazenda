@@ -1,0 +1,6 @@
+class add extends pessoa{
+
+public add(String nome){
+this.nome=nome;
+}
+}
