@@ -1,0 +1,3 @@
+[submodule "scrypts"]
+	path = scrypts
+	url = https://github.com/alexseycc/scrypts.git
